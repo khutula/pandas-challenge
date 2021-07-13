@@ -14,21 +14,21 @@ As the new Chief Data Scientist for the school district, I will be responsible f
 <a name="objectives"></a>
 ### Objectives
 Write a Python script using Jupyter Lab that summarizes school and student data by:
-    *District Summary
-    *School Summary
-    *Top Performing Schools (By Percent Overall Passing)
-    *Bottom Performing Schools (By Percent Overall Passing)
-    *Math Scores by Grade
-    *Reading Scores by Grade
-    *Scores by School Spending
-    *Scores by School Size
-    *Scores by School Type
+* District Summary
+* School Summary
+* Top Performing Schools (By Percent Overall Passing)
+* Bottom Performing Schools (By Percent Overall Passing)
+* Math Scores by Grade
+* Reading Scores by Grade
+* Scores by School Spending
+* Scores by School Size
+* Scores by School Type
 
 <a name="technologies"></a>
 ### Technologies
 This project uses: 
-    *Python Version 3.6.13
-    *Jupyter Lab Version 2.2.6
+* Python Version 3.6.13
+* Jupyter Lab Version 2.2.6
 
 <a name="files"></a>
 ### Files
